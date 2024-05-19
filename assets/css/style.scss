@@ -10,10 +10,20 @@ header h1 a {
 
 /* Change the background color of the body */
 body {
-  background-color: #f0f0f0; /* Light grey color */
+  background-color: #E5E4E2; /* Light grey color */
 }
 
 /* Change the color of the footer text */
 footer p {
+  color: #00008b; /* Dark red color */
+}
+
+/* Change the color of all links */
+a {
+  color: #00008b; /* Dark blue color */
+}
+
+/* Optional: Change the color of links when hovered */
+a:hover {
   color: #900C3F; /* Dark green color */
 }
