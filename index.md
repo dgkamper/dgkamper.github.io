@@ -12,5 +12,5 @@ I previously studied at the University of Michigan in the Computational Neurolin
 
 ##### Important Links
 
-- [Link to another page](./research.html).
-- [Link to another page](./CV.html).
+- [My Research](./research.html).
+- [CV](./CV.html).
