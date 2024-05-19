@@ -15,6 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
+        <img src="{{ '/thumbnail.png' | relative_url }}" alt="Thumbnail Image" style="display: block; margin: 0 auto;">
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
