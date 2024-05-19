@@ -14,4 +14,6 @@ I previously studied at the University of Michigan in the Computational Neurolin
 
 - [My Research](./research.md)
 - [CV](./docs/CV.pdf)
+- [Sports](./sports.md)
+- [Music](.music.md)
 - [Contact](./contact.md)
