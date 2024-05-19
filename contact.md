@@ -11,5 +11,7 @@ Twitter: dgkamper
 </div>
 
 <div class="center">
-![](./assets/img/Waterpolo.png)
+[](./assets/img/Waterpolo.png)
 </div>
+
+[Back](./)
