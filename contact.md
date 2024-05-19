@@ -6,7 +6,7 @@ Twitter: dgkamper
 
 
 <div style="text-align: center;">
-  <img src="./images/profile.png" alt="">
+  <img src="./images/waterpolo.png" alt="">
 </div>
 
 
