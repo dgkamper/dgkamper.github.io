@@ -2,3 +2,18 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* Change the color of the header text */
+header h1 a {
+  color: #00008b; /* Dark blue color */
+}
+
+/* Change the background color of the body */
+body {
+  background-color: #f0f0f0; /* Light grey color */
+}
+
+/* Change the color of the footer text */
+footer p {
+  color: #900C3F; /* Dark green color */
+}
