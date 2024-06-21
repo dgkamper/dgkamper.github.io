@@ -8,7 +8,7 @@ My research uses computational and cognitive neuroscientific techniques to study
 
 I work closely and am strongly affiliated with my post-baccalaureate research lab at Brown University: [The Causality and Mind Laboratory](https://sites.brown.edu/causalityandmindlab/) with Dr. David Sobel. I am an affiliate/collaborator in the [Causal Cognition Lab](https://causalcognitionlab.com/) at University College London with Dr. David Lagnado, an affiliate/collaborator in the [MADLAB](https://kenan.ethics.duke.edu/mad-lab/) at Duke University with Dr. Walter Sinnott-Armstrong, an affiliate/collaborator with the Mind at Large Lab at Duke University with Dr. Paul Seli, an affiliate with the University of Oxford BioXPhi Lab, and an affiliate with the Center for the Science of Moral Understanding at the University of North Carolina, Chapel Hill.  
 
-I previously studied at the University of Michigan in the Computational Neurolinguistics Laboratory with Dr. Jonathan Brennan. I also worked at the University of Minnesota and Harvard Law Schools in the Neurolaw Laboratory with Dr. Francis X. Shen. 
+I previously studied at the University of Michigan in the Computational Neurolinguistics Laboratory with Dr. Jonathan Brennan. I completed my post-baccalaureate research at Brown University. I also worked at the University of Minnesota and Harvard Law Schools in the Neurolaw Laboratory with Dr. Francis X. Shen. 
 
 ##### Important Links
 
