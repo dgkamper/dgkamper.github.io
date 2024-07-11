@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a PhD student in cognitive neuroscience and computational cognitive science at University of California, Los Angeles in the [Reasoning Lab](https://reasoninglab.psych.ucla.edu/), where I am advised by Keith Holyoak and Hongjing Lu. I also work with the [Craig Fox](https://www.craigrfox.com/), and [Jaime Castrellon](https://www.psych.ucla.edu/faculty-page/jcastrellon/).
+I am a PhD student in cognitive neuroscience and computational cognitive science at University of California, Los Angeles in the [Reasoning Lab](https://reasoninglab.psych.ucla.edu/), where I am advised by Keith Holyoak and Hongjing Lu. I also work with the [Craig Fox](https://www.craigrfox.com/), and [Jaime Castrellon](https://www.castrellonlab.psych.ucla.edu/).
 
 My research uses computational and cognitive neuroscientific techniques to study legal cognition and decision making, particularly in intellectual property law and tort. My primary focus on copyright and patent law and how those intersect with the cognitive neuroscience of creativity. Moreover, how I look at how individuals and groups in social networks come to develop norms around intellectual property using computational cognitive modeling and data science analyses of naturalistic behavior, which then come to be reflected in our legislation and caselaw around intellectual property.
 
