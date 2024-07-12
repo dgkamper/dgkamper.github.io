@@ -10,7 +10,7 @@ I work closely with my post-baccalaureate research labs at Brown University: [Th
 
 I previously studied at the University of Michigan in the Computational Neurolinguistics Laboratory with Dr. Jonathan Brennan. I completed my post-baccalaureate research at Brown University. I also worked at the University of Minnesota and Harvard Law Schools in the Neurolaw Laboratory with Dr. Francis X. Shen. 
 
-I received my B.S. in Neuroscience, Philosophy, Cognitive Science, and a minor in Linguistics summa cum laude and Phi Beta Kappa from the University of Michigan. I simultaneously received a B.M. in Trombone Performance summa cum laude from the School of Music, Theater & Dance from the University of Michigan.  
+I received my B.S. in Neuroscience, Philosophy, Cognitive Science, and a minor in Linguistics summa cum laude and Phi Beta Kappa from the University of Michigan. I simultaneously received my B.M. in Trombone Performance summa cum laude from the School of Music, Theater & Dance from the University of Michigan.  
 
 ##### Important Links
 
