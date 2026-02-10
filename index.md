@@ -15,7 +15,7 @@ I received my B.S. in Neuroscience, Philosophy, Cognitive Science, and a minor i
 ##### Important Links
 
 - [My Research](./research.md)
-- [CV](./docs/DGK_CV_2026_Q1.pdf.pdf)
+- [CV](./docs/DGK_CV_2026_Q1.pdf)
 - [Sports](./sports.md)
 - [Music](.music.md)
 - [Contact](./contact.md)
